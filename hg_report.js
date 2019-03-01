@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: Austin inmon
+   Date:   3.1.19
    
    Filename: hg_report.js
 	
